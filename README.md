@@ -5,6 +5,7 @@ This project was developed during the Full Stack Development Workshop (7th–8th
 The objective was to build a secure and scalable backend system using modern industry tools and technologies.
 
 Tech Stack Used:
+
 Node.js – Server-side runtime environment
 Express.js – Backend framework for building APIs
 PostgreSQL – Relational database
@@ -15,6 +16,7 @@ Postman – API testing
 Ngrok – Exposing local server to the internet
 
 Project Description:
+
 In this workshop, we built a backend API system with authentication and database integration.
 The application includes:
 User Registration & Login System
@@ -24,7 +26,8 @@ RESTful API creation using Express
 API testing and debugging using Postman
 Deployment testing using Ngrok
 
-🔐 Key Features:
+Key Features:
+
 Secure user authentication
 Token-based authorization
 Structured database schema
